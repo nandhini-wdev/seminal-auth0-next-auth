@@ -1,0 +1,1 @@
+# seminal-auth0-next-auth
